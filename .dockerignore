@@ -1,0 +1,22 @@
+# .dockerignore
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# сырые/временные/тяжёлые данные
+data/raw/
+data/interim/
+data/tmp/
+
+# большие бинарники
+data/processed/**/*.parquet
+data/processed/**/*.feather
+data/processed/**/*.pkl
+
+# кэш, логи
+*.log

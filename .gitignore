@@ -1,0 +1,30 @@
+# Виртуалки любого вида
+.venv/
+venv/
+ENV/
+env/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Кэш и мусор
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+
+# Данные (тяжёлые/временные)
+data/raw/
+data/interim/
+data/tmp/
+data/processed/**/*.parquet
+data/processed/**/*.feather
+data/processed/**/*.pkl
+
+# IDE
+.idea/
+
+# Секреты
+.env
+*.env

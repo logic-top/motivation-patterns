@@ -1,0 +1,10 @@
+title: "Отчёт: Динамика внутренней мотивации (IMI)"
+author: "Проект «От мотивации к паттернам цифрового мышления», ИТМО"
+lang: ru-RU
+date: today
+geometry:
+  - margin=2.5cm
+fontsize: 11pt
+papersize: a4
+mainfont: "Times New Roman"
+monofont: "Consolas"

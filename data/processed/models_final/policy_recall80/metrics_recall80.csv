@@ -1,0 +1,2 @@
+model,status,thr,val_recall_target,test_precision,test_f1,test_brier
+GBDT,ok,0.6098178876840235,0.8,0.8644544431946006,0.8310354149770208,0.12753097194543334
